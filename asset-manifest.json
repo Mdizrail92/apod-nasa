@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nasa-apod/static/css/main.3ac4968f.css",
-    "main.js": "/nasa-apod/static/js/main.51a8e034.js",
-    "static/js/787.4b798eec.chunk.js": "/nasa-apod/static/js/787.4b798eec.chunk.js",
-    "index.html": "/nasa-apod/index.html",
-    "main.3ac4968f.css.map": "/nasa-apod/static/css/main.3ac4968f.css.map",
-    "main.51a8e034.js.map": "/nasa-apod/static/js/main.51a8e034.js.map",
-    "787.4b798eec.chunk.js.map": "/nasa-apod/static/js/787.4b798eec.chunk.js.map"
+    "main.css": "/apod-nasa/static/css/main.3ac4968f.css",
+    "main.js": "/apod-nasa/static/js/main.4b0890df.js",
+    "static/js/787.4b798eec.chunk.js": "/apod-nasa/static/js/787.4b798eec.chunk.js",
+    "index.html": "/apod-nasa/index.html",
+    "main.3ac4968f.css.map": "/apod-nasa/static/css/main.3ac4968f.css.map",
+    "main.4b0890df.js.map": "/apod-nasa/static/js/main.4b0890df.js.map",
+    "787.4b798eec.chunk.js.map": "/apod-nasa/static/js/787.4b798eec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ac4968f.css",
-    "static/js/main.51a8e034.js"
+    "static/js/main.4b0890df.js"
   ]
 }
